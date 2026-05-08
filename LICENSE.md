@@ -1,4 +1,4 @@
-
+Enhance Magnetic for macOS with instant Tool for Magnetic for macOS - window-management and CPU-monitoring, the #1 tool. Includes window-management and CPU-monitoring for a
 
 
 
